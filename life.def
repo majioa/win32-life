@@ -1,0 +1,8 @@
+NAME LIFE
+EXETYPE windows
+STUB 'winstub.exe'
+STACKSIZE 5120
+HEAPSIZE 1024
+CODE preload moveable discardable
+DATA preload moveable multiple
+
